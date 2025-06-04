@@ -65,12 +65,6 @@ Este projeto é uma prova de conceito (POC) demonstrando o uso das principais es
 Execute os testes automatizados com:
 
 ```sh
-./mvnw test
-```
-
-ou, no Windows:
-
-```sh
 mvnw.cmd test
 ```
 
