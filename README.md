@@ -20,10 +20,6 @@ Este projeto é uma prova de conceito (POC) demonstrando o uso das principais es
    ```
 3. **Inicie a aplicação em modo dev**:
    ```sh
-   ./mvnw quarkus:dev
-   ```
-   ou, se estiver no Windows:
-   ```sh
    mvnw.cmd quarkus:dev
    ```
 
